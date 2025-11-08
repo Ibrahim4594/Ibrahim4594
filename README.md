@@ -1,30 +1,32 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cyberpunk_city_street_%28neon_animation%29.gif" width="100%" alt="cyberpunk neon header"/>
+  <!-- Header GIF: replace with a working direct GIF URL -->
+  <img src="https://i.pinimg.com/originals/e7/fc/a4/e7fca41687df365b3f4906a5942bb468.gif" width="100%" alt="cyberpunk neon header"/>
 </p>
 
 <h1 align="center" style="font-size: 3em;">
-  <span style="color:#00eaff;">Agentic AI</span> | 
-  <span style="color:#ff00ff;">Robotic AI</span> | 
-  <span style="color:#00eaff;">Gen AI</span>
+  <span style="color:#00ffea;">Agentic AI</span> &nbsp;|&nbsp; 
+  <span style="color:#ff00ff;">Robotic AI</span> &nbsp;|&nbsp; 
+  <span style="color:#00ffea;">Gen AI</span>
 </h1>
 
 <p align="center">
   <em style="color:#39ff14; font-size:1.2em;">
-    Python | DevOps | Ethical Hacking | DS | ML | AI | Game Dev | Flutter | Video Editing
+    Python | DevOps | Ethical Hacking | DS | ML | AI | Game Dev | Flutter | Video Editing
   </em>
 </p>
 
 <p align="center" style="margin-top:1em;">
-  <strong style="color:#ff1493;">Sr. Instructor | UTech Ambassador</strong><br>
-  <strong style="color:#00ffff;">🏆 HBL PASHA ICT AWARDS LAHORE 2025 WINNER</strong><br>
-  <strong style="color:#ff8c00;">🌐 UN Finalist</strong><br>
-  <strong style="color:#ff00ff;">🚀 NASA Ambassador & Participant</strong>
+  <strong style="color:#ff1493;">Sr. Instructor | UTech Ambassador</strong><br>
+  <strong style="color:#00ffff;">🏆 HBL PASHA ICT AWARDS LAHORE 2025 WINNER</strong><br>
+  <strong style="color:#ff8c00;">🌐 UN Finalist</strong><br>
+  <strong style="color:#ff00ff;">🚀 NASA Ambassador & Participant</strong>
 </p>
 
 <hr style="border:2px solid #39ff14; margin:2em 0;">
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Glitch_transition.gif" width="700" alt="cyberpunk glitch animation"/>
+  <!-- Glitch / cyberpunk animation GIF -->
+  <img src="https://i.pinimg.com/originals/e7/fc/a4/e7fca41687df365b3f4906a5942bb468.gif" width="700" alt="glitch cyberpunk animation"/>
 </p>
 
 ### 💻 Tech Stack  
@@ -40,5 +42,5 @@
 <hr style="border:2px solid #ff00ff; margin:2em 0;">
 
 <p align="center" style="font-size:1.1em; color:#ff69b4;">
-  ✨ Welcome to the Neon Future — Let’s Build It Together ✨
+  ✨ Welcome to the Neon Future — Let’s Build It Together ✨
 </p>
