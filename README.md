@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/8cb9c9fccb8a8b9b5b5c0b0481218f4b/tumblr_pxvjm0Cd9o1y4z1rno1_540.gif" width="100%" alt="cyberpunk city neon"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cyberpunk_city_street_%28neon_animation%29.gif" width="100%" alt="cyberpunk neon header"/>
 </p>
 
 <h1 align="center" style="font-size: 3em;">
@@ -24,7 +24,7 @@
 <hr style="border:2px solid #39ff14; margin:2em 0;">
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/62ea0c9f6a9f77c9bfbc3750086511ea/tumblr_pwexf2xN2x1qiohkoo1_540.gif" width="700" alt="glitch neon cyberpunk"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Glitch_transition.gif" width="700" alt="cyberpunk glitch animation"/>
 </p>
 
 ### 💻 Tech Stack  
