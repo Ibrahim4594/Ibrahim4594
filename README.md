@@ -1,4 +1,4 @@
-]<p align="center">
+<p align="center">
   <!-- Placeholder for a full-width cyberpunk GIF header -->
   <img src="https://media.tenor.com/your-future-cyberpunk-header.gif" width="100%"/>
 </p>
