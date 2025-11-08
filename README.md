@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- Header GIF: replace with a working direct GIF URL -->
-  <img src="https://i.pinimg.com/originals/e7/fc/a4/e7fca41687df365b3f4906a5942bb468.gif" width="100%" alt="cyberpunk neon header"/>
+  <img src="./assets/cf3a49135903777.61f0168cc7e02.gif" width="100%" alt="cyberpunk neon header"/>
 </p>
 
 <h1 align="center" style="font-size: 3em;">
@@ -23,11 +22,6 @@
 </p>
 
 <hr style="border:2px solid #39ff14; margin:2em 0;">
-
-<p align="center">
-  <!-- Glitch / cyberpunk animation GIF -->
-  <img src="https://i.pinimg.com/originals/e7/fc/a4/e7fca41687df365b3f4906a5942bb468.gif" width="700" alt="glitch cyberpunk animation"/>
-</p>
 
 ### 💻 Tech Stack  
 <p align="center">
