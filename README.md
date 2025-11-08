@@ -1,9 +1,12 @@
-<p align="center">
-  <img src="https://i.gifer.com/7efs.gif" width="700"/>
+]<p align="center">
+  <!-- Placeholder for a full-width cyberpunk GIF header -->
+  <img src="https://media.tenor.com/your-future-cyberpunk-header.gif" width="100%"/>
 </p>
 
 <h1 align="center">
-  <span style="color:#00ffea;">Agentic AI</span> | <span style="color:#ff00ff;">Robotic AI</span> | <span style="color:#00ffea;">Gen AI</span>
+  <span style="color:#00ffea;">Agentic AI</span> | 
+  <span style="color:#ff00ff;">Robotic AI</span> | 
+  <span style="color:#00ffea;">Gen AI</span>
 </h1>
 
 <p align="center">
@@ -17,10 +20,11 @@
   <strong style="color:#ff00ff;">🚀 NASA Ambassador & Participant</strong>
 </p>
 
----
+<hr style="border:1px solid #39ff14;">
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/cf7e59b3d43b7f7c9e6b5bb6a0b2a85e/tumblr_p1y1kz4Z3O1vr5jbao1_500.gif" width="700"/>
+  <!-- Placeholder for futuristic glitch/cyberpunk GIF -->
+  <img src="https://media.tenor.com/your-glitch-cyberpunk.gif" width="700"/>
 </p>
 
 ### 💻 Tech Stack
@@ -33,8 +37,8 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
----
+<hr style="border:1px solid #ff00ff;">
 
 <p align="center">
-  <em style="color:#ff69b4;">✨ Welcome to the Neon Future ✨</em>
+  <em style="color:#ff69b4;">✨ Welcome to the Neon Future — Let’s Build It Together ✨</em>
 </p>
