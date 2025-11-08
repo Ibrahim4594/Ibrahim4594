@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="600"/>
+  <img src="https://i.gifer.com/7efs.gif" width="700"/>
 </p>
 
 <h1 align="center">
@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <img src="https://c.tenor.com/wfC6QDQnTtMAAAAC/cyberpunk.gif" width="700"/>
+  <img src="https://64.media.tumblr.com/cf7e59b3d43b7f7c9e6b5bb6a0b2a85e/tumblr_p1y1kz4Z3O1vr5jbao1_500.gif" width="700"/>
 </p>
 
 ### 💻 Tech Stack
@@ -36,5 +36,5 @@
 ---
 
 <p align="center">
-  <em style="color:#ff69b4;">✨ Let's build a neon future together ✨</em>
+  <em style="color:#ff69b4;">✨ Welcome to the Neon Future ✨</em>
 </p>
