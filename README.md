@@ -215,7 +215,10 @@ Cross-platform Flutter<br>development
 
 ---
 
-## 💡 About Me
+<details>
+<summary><h2>💡 About Me (Click to Expand)</h2></summary>
+
+<br>
 
 ```python
 class Ibrahim:
@@ -278,6 +281,8 @@ class Ibrahim:
 me = Ibrahim()
 print(me.current_mission())
 ```
+
+</details>
 
 ---
 
