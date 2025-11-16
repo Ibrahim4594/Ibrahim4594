@@ -215,74 +215,71 @@ Cross-platform Flutter<br>development
 
 ---
 
-<details>
-<summary><h2>💡 About Me (Click to Expand)</h2></summary>
+## 💡 About Me
 
-<br>
+<table>
+<tr>
+<td width="50%">
 
-```python
-class Ibrahim:
-    def __init__(self):
-        self.role = "AI Engineer & Senior Instructor"
-        self.location = "Pakistan 🇵🇰"
-        self.education = "UTech Ambassador"
-        self.passion = "Building intelligent systems that make a difference"
+### 🎯 Core Expertise
 
-    def get_expertise(self):
-        return {
-            "AI/ML": [
-                "Agentic AI & Multi-Agent Systems",
-                "Large Language Models (LLMs)",
-                "Computer Vision & Image Processing",
-                "Natural Language Processing",
-                "Deep Learning & Neural Networks"
-            ],
-            "DevOps": [
-                "Docker & Kubernetes",
-                "CI/CD Pipelines",
-                "Cloud Infrastructure (AWS, Azure)",
-                "Infrastructure as Code",
-                "Monitoring & Logging"
-            ],
-            "Security": [
-                "Ethical Hacking",
-                "Penetration Testing",
-                "OSINT & Reconnaissance",
-                "Vulnerability Assessment"
-            ],
-            "Development": [
-                "Full-Stack Development",
-                "Mobile Apps (Flutter)",
-                "Game Development (Unity)",
-                "API Design & Integration"
-            ],
-            "Data": [
-                "Data Science & Analytics",
-                "Data Visualization",
-                "Statistical Analysis",
-                "Big Data Processing"
-            ]
-        }
+**AI/ML**
+- 🧠 Agentic AI & Multi-Agent Systems
+- 🤖 Large Language Models (LLMs)
+- 👁️ Computer Vision & Image Processing
+- 💬 Natural Language Processing
+- 🔬 Deep Learning & Neural Networks
 
-    def available_for(self):
-        return [
-            "🤝 Technical Consulting & Advisory",
-            "🎤 Speaking Engagements & Workshops",
-            "👨‍🏫 Training & Mentorship Programs",
-            "🔬 Research Collaboration",
-            "💼 Freelance AI/ML Projects",
-            "🌟 Open Source Contributions"
-        ]
+**DevOps**
+- 🐳 Docker & Kubernetes
+- ⚙️ CI/CD Pipelines
+- ☁️ Cloud Infrastructure (AWS, Azure)
+- 📜 Infrastructure as Code
+- 📊 Monitoring & Logging
 
-    def current_mission(self):
-        return "Democratizing AI education and building intelligent systems that solve real-world problems"
+**Security**
+- 🔐 Ethical Hacking
+- 🛡️ Penetration Testing
+- 🔍 OSINT & Reconnaissance
+- ⚠️ Vulnerability Assessment
 
-# Let's innovate together! 🚀
-me = Ibrahim()
-print(me.current_mission())
-```
+</td>
+<td width="50%">
 
-</details>
+### 🛠️ Development Skills
+
+**Full-Stack Development**
+- 📱 Mobile Apps (Flutter)
+- 🎮 Game Development (Unity)
+- 🔌 API Design & Integration
+- 🌐 Web Applications
+
+**Data Science**
+- 📊 Data Analytics
+- 📈 Data Visualization
+- 🔢 Statistical Analysis
+- 💾 Big Data Processing
+
+### 🤝 Available For
+
+- 💼 Technical Consulting & Advisory
+- 🎤 Speaking Engagements & Workshops
+- 👨‍🏫 Training & Mentorship Programs
+- 🔬 Research Collaboration
+- 💡 Freelance AI/ML Projects
+- 🌟 Open Source Contributions
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**🎯 Mission:** *Democratizing AI education and building intelligent systems that solve real-world problems*
+
+**Let's innovate together!** 🚀
+
+</div>
 
 ---
 
