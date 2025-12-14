@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7F7&center=true&vCenter=true&width=940&lines=Welcome+to+Ibrahim's+AI+Lab+🚀;Agentic+AI+%7C+Robotics+%7C+Generative+AI;Building+The+Future+With+Intelligence" alt="Typing SVG" />
+
 ### 🤖 AI Engineer | Technology Innovator | Senior Instructor
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Ibrahim4594&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Ibrahim4594)
@@ -10,21 +14,18 @@
 
 ### 🏆 Achievements & Recognition
 
+🥇 HBL PASHA ICT Awards 2025 Winner  
+└─ Lahore, Pakistan | Innovation in Technology  
 
-yaml
-🥇 HBL PASHA ICT Awards 2025 Winner
-   └─ Lahore, Pakistan | Innovation in Technology
+🌍 United Nations Finalist  
+└─ Digital Innovation Initiative  
 
-🌍 United Nations Finalist
-   └─ Digital Innovation Initiative
+🚀 NASA Space Apps Challenge  
+└─ Global Nominee: Selected from 1300+ projects worldwide  
+└─ Ambassador & Active Participant  
 
-🚀 NASA Space Apps Challenge
-   └─ Global Nominee: Selected from 1300+ projects worldwide
-   └─ Ambassador & Active Participant
-
-🎓 Senior Instructor | UTech Ambassador
-   └─ Empowering Future Innovators
-
+🎓 Senior Instructor | UTech Ambassador  
+└─ Empowering Future Innovators  
 
 <br clear="right"/>
 
@@ -208,133 +209,4 @@ Cross-platform Flutter<br>development
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ibrahim4594&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/Ibrahim4594)
 
-</div>
-
----
-
-## 💡 About Me
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 Core Expertise
-
-**AI/ML**
-- 🧠 Agentic AI & Multi-Agent Systems
-- 🤖 Large Language Models (LLMs)
-- 👁️ Computer Vision & Image Processing
-- 💬 Natural Language Processing
-- 🔬 Deep Learning & Neural Networks
-
-**DevOps**
-- 🐳 Docker & Kubernetes
-- ⚙️ CI/CD Pipelines
-- ☁️ Cloud Infrastructure (AWS, Azure)
-- 📜 Infrastructure as Code
-- 📊 Monitoring & Logging
-
-**Security**
-- 🔐 Ethical Hacking
-- 🛡️ Penetration Testing
-- 🔍 OSINT & Reconnaissance
-- ⚠️ Vulnerability Assessment
-
-</td>
-<td width="50%">
-
-### 🛠️ Development Skills
-
-**Full-Stack Development**
-- 📱 Mobile Apps (Flutter)
-- 🎮 Game Development (Unity)
-- 🔌 API Design & Integration
-- 🌐 Web Applications
-
-**Data Science**
-- 📊 Data Analytics
-- 📈 Data Visualization
-- 🔢 Statistical Analysis
-- 💾 Big Data Processing
-
-### 🤝 Available For
-
-- 💼 Technical Consulting & Advisory
-- 🎤 Speaking Engagements & Workshops
-- 👨‍🏫 Training & Mentorship Programs
-- 🔬 Research Collaboration
-- 💡 Freelance AI/ML Projects
-- 🌟 Open Source Contributions
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**🎯 Mission:** *Democratizing AI education and building intelligent systems that solve real-world problems*
-
-**Let's innovate together!** 🚀
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 Let's Connect & Collaborate
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-### 💬 I'm Open To:
-
-🔬 **Research Collaborations** in AI/ML & Robotics
-🎓 **Speaking Engagements** & Technical Workshops
-💼 **Consulting** on AI, DevOps & Cloud Projects
-🌟 **Open-Source Contributions** & Community Building
-🤖 **Innovative Tech Partnerships** & Joint Ventures
-📚 **Mentoring** Aspiring Developers & AI Enthusiasts
-
----
-
-### 📫 Reach Out
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-samad-525240342/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ibrahim.aiwala)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ibrahim4594)
-
----
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=%E2%9C%A8+Innovation+Starts+With+Curiosity;%F0%9F%9A%80+Let's+Build+The+Future+Together;%F0%9F%92%A1+One+Line+of+Code+at+a+Time" alt="Typing SVG" />
-
-<br>
-
-**"The best way to predict the future is to invent it."** - Alan Kay
-
-<br>
-
-⭐ **Star my repositories if you find them helpful!**
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4af0-b4d8-c2e105a0de28.gif" width="500">
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 Featured Projects
-
-*Building innovative solutions with AI, one project at a time* 🚀
-
-**Check out my pinned repositories below!**
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
