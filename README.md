@@ -20,6 +20,14 @@ yaml
 🌍 United Nations Finalist
    └─ Digital Innovation Initiative
 
+   🥇 GOLD MEDAL — Young Innovators League
+   └─ EMUinvent & Dare2Design International Competition 2025
+   └─ Hosted by Eastern Michigan University (USA)
+   └─ Sponsored & Collaborated with NED Scholars & UTech Digital Education
+   └─ Project: “Generic Care” — 🥇 FIRST PLACE
+   └─ Delivering impactful real-world healthcare solutions
+
+
 🚀 NASA Space Apps Challenge
    └─ Global Nominee: Selected from 1300+ projects worldwide
    └─ Ambassador & Active Participant
