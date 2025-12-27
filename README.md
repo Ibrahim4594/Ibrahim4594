@@ -25,143 +25,186 @@
 
 <div align="center">
 
-## 🏆 HALL OF ACHIEVEMENTS
+## 🏆 GLOBAL RECOGNITION & ACHIEVEMENTS
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4af0-b4d8-c2e105a0de28.gif" width="100%">
 
 </div>
 
-<table align="center">
+<br>
+
+<table align="center" width="95%">
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" height="100"/>
+<h3>🥇 HBL PASHA ICT</h3>
+<img src="https://img.shields.io/badge/WINNER_2025-FFD700?style=for-the-badge&labelColor=000000" />
 <br><br>
-<img src="https://img.shields.io/badge/🥇_HBL_PASHA_ICT-2025_WINNER-FFD700?style=for-the-badge&labelColor=1a1a1a" />
-<br><br>
-<sub><b>Innovation in Technology</b></sub><br>
-<sub>🌟 Lahore, Pakistan</sub>
+<sub><b>Innovation in Technology</b><br>Lahore, Pakistan 🇵🇰</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="100" height="100"/>
+<h3>🥇 MICHIGAN ENGINEERING</h3>
+<img src="https://img.shields.io/badge/GOLD_MEDAL-FFD700?style=for-the-badge&labelColor=000000" />
 <br><br>
-<img src="https://img.shields.io/badge/🥇_GOLD_MEDAL-MICHIGAN_ENGINEERING-FFD700?style=for-the-badge&labelColor=1a1a1a" />
-<br><br>
-<sub><b>University of Michigan</b></sub><br>
-<sub>🎓 D2D Program Excellence</sub>
+<sub><b>D2D Program Excellence</b><br>University of Michigan 🎓</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" height="100"/>
+<h3>🌍 UNITED NATIONS</h3>
+<img src="https://img.shields.io/badge/FINALIST-00A6ED?style=for-the-badge&labelColor=000000" />
 <br><br>
-<img src="https://img.shields.io/badge/🌍_UNITED_NATIONS-FINALIST-00A6ED?style=for-the-badge&labelColor=1a1a1a" />
-<br><br>
-<sub><b>Digital Innovation</b></sub><br>
-<sub>🌐 Global Recognition</sub>
+<sub><b>Digital Innovation</b><br>Global Recognition 🌐</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100" height="100"/>
+<h3>🚀 NASA SPACE APPS</h3>
+<img src="https://img.shields.io/badge/GLOBAL_NOMINEE-E03C31?style=for-the-badge&labelColor=000000" />
 <br><br>
-<img src="https://img.shields.io/badge/🚀_NASA_SPACE_APPS-GLOBAL_NOMINEE-E03C31?style=for-the-badge&labelColor=1a1a1a" />
-<br><br>
-<sub><b>Selected from 1300+ Projects</b></sub><br>
-<sub>🛸 Ambassador & Participant</sub>
+<sub><b>Top from 1300+ Projects</b><br>Ambassador & Participant 🛸</sub>
 </td>
 </tr>
 </table>
 
 <div align="center">
 <br>
-<img src="https://img.shields.io/badge/🎓_SENIOR_INSTRUCTOR-UTECH_AMBASSADOR-00D9FF?style=for-the-badge&labelColor=1a1a1a" />
+
+![](https://img.shields.io/badge/🎓_SENIOR_INSTRUCTOR-UTech-00D9FF?style=for-the-badge&labelColor=000000)
+![](https://img.shields.io/badge/🌟_AMBASSADOR-UTech-FFD700?style=for-the-badge&labelColor=000000)
+
 <br>
-<sub><i>Empowering the Next Generation of Innovators</i></sub>
+<sub><i>💫 Empowering the Next Generation of AI Engineers & Innovators</i></sub>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4af0-b4d8-c2e105a0de28.gif" width="100%">
+<br>
 
 ---
 
 <div align="center">
 
-## 💫 ABOUT THE INNOVATOR
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="right" width="400" />
+## 💫 WHO IS IBRAHIM SAMAD?
 
 </div>
 
 <br>
 
-> ### *"Bridging the gap between artificial intelligence and human potential"*
+<table>
+<tr>
+<td width="60%">
 
-I'm an **AI Engineer**, **Robotics Enthusiast**, and **Technology Educator** passionate about pushing the boundaries of what's possible with intelligent systems. My work spans from developing cutting-edge **Agentic AI** solutions to mentoring the next generation of tech leaders.
+> ### *"Transforming ideas into intelligent solutions that shape the future"*
 
-With multiple international awards and recognition, I combine theoretical knowledge with practical implementation to build AI systems that make a real-world impact. From winning the **HBL PASHA ICT Awards** to earning a **Gold Medal from Michigan Engineering**, my journey is driven by innovation and a commitment to democratizing AI education.
+A **visionary AI Engineer**, **award-winning innovator**, and **passionate educator** on a mission to democratize artificial intelligence and empower the next generation of tech leaders.
 
-### 🌟 Notable Highlights
+With **4 international accolades** including NASA Space Apps Global Nominee and HBL PASHA ICT Winner 2025, I bridge the gap between cutting-edge AI research and real-world applications.
 
-- 🏆 **4 International Awards** in AI & Technology
-- 👨‍🎓 **500+ Students Trained** in AI/ML and DevOps
-- 🚀 **50+ Projects Delivered** with production-grade quality
-- 🌍 **15+ Countries Reached** through education and collaboration
-- 📚 **30+ Workshops Conducted** on cutting-edge technologies
+From architecting **multi-agent AI systems** to deploying **production-grade ML infrastructure** on Kubernetes, my work spans the entire AI ecosystem—**research, development, deployment, and education**.
 
-<br clear="right"/>
+<br>
+
+### 🎯 Mission Statement
+
+**Building ethical, scalable AI systems** that solve real problems while **training 500+ future engineers** to carry the torch forward.
+
+</td>
+<td width="40%">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
+
+### 📊 Impact At A Glance
+
+🏆 **4** International Awards
+👨‍🎓 **500+** Students Trained
+🚀 **50+** AI Projects Delivered
+🌍 **15+** Countries Reached
+📚 **30+** Workshops Conducted
+💻 **2000+** Code Commits
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
-## 🎯 CORE MISSION
+<div align="center">
 
-<table>
+## 🎯 EXPERTISE & FOCUS AREAS
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+</div>
+
+<br>
+
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI/ML Expertise
-- Agentic AI & Multi-Agent Systems
-- Large Language Models (LLMs)
-- RAG (Retrieval-Augmented Generation)
-- Computer Vision & Image Processing
-- Natural Language Processing
-- Deep Learning & Neural Networks
-- Reinforcement Learning
+### 🤖 Artificial Intelligence & ML
+
+**Specialization in Next-Gen AI:**
+- ⚡ Agentic AI & Multi-Agent Systems
+- 🧠 Large Language Models (LLMs)
+- 📚 RAG (Retrieval-Augmented Generation)
+- 👁️ Computer Vision & Image Processing
+- 💬 Natural Language Processing
+- 🔮 Deep Learning & Neural Networks
+- 🎮 Reinforcement Learning
 
 ### ☁️ Cloud & Infrastructure
-- AWS (EC2, S3, Lambda, SageMaker)
-- Microsoft Azure (ML, DevOps)
-- Google Cloud Platform
-- Kubernetes Orchestration
-- Docker Containerization
-- Terraform IaC
 
-### 🔐 Security
-- Ethical Hacking & Penetration Testing
-- OSINT (Open Source Intelligence)
-- Vulnerability Assessment
-- Security Auditing
-- Network Security
-- Application Security
+**Production-Grade Deployment:**
+- 🔶 AWS (EC2, S3, Lambda, SageMaker)
+- 🔷 Microsoft Azure (ML Studio, DevOps)
+- 🌐 Google Cloud Platform (GCP)
+- ☸️ Kubernetes Orchestration
+- 🐳 Docker Containerization
+- 🏗️ Terraform Infrastructure as Code
+
+### 🔐 Cybersecurity
+
+**Ethical Security Practices:**
+- 🛡️ Ethical Hacking & Penetration Testing
+- 🔍 OSINT (Open Source Intelligence)
+- 🔬 Vulnerability Assessment
+- 📋 Security Auditing & Compliance
+- 🌐 Network Security Architecture
+- 🔒 Application Security Best Practices
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚀 DevOps & MLOps
-- CI/CD Pipelines (Jenkins, GitHub Actions)
-- Infrastructure as Code
-- Model Deployment & Monitoring
-- Automation & Orchestration
-- Microservices Architecture
-- GitOps Workflows
 
-### 👨‍🏫 Education & Mentorship
-- Technical Training & Workshops
-- Curriculum Development
-- AI/ML Bootcamps
-- Career Mentoring
-- Community Building
-- Public Speaking
+**Automation & Scalability:**
+- 🔄 CI/CD Pipelines (Jenkins, GitHub Actions)
+- 📝 Infrastructure as Code (IaC)
+- 📊 ML Model Deployment & Monitoring
+- ⚙️ Automation & Orchestration
+- 🏛️ Microservices Architecture
+- 🔀 GitOps Workflows
 
-### 🎯 Current Focus
-- 🤖 Building production-ready AI agents with LangChain
-- ☸️ Scaling ML systems on Kubernetes clusters
-- 👨‍🏫 Training future AI engineers through hands-on projects
-- 🌟 Contributing to open-source AI projects and tools
-- 🔬 Researching multi-modal AI and edge computing
-- 🎓 Developing interactive AI learning platforms
+### 👨‍🏫 Education & Leadership
+
+**Empowering Future Engineers:**
+- 📖 Technical Training & Workshops
+- 📚 AI/ML Curriculum Development
+- 🎓 Hands-on Bootcamps
+- 🤝 Career Mentoring Programs
+- 🌟 Tech Community Building
+- 🎤 Public Speaking & Advocacy
+
+### 🎯 Current Focus (2025)
+
+**Active Projects & Research:**
+- 🤖 Building Agentic AI with **LangChain**
+- ☸️ Scaling ML on **Kubernetes**
+- 👨‍🏫 Training **500+ students** in AI/MLOps
+- 🌟 Contributing to **open-source** AI tools
+- 🔬 Researching **multi-modal** AI
+- 🎓 Creating **interactive** learning platforms
 
 </td>
 </tr>
@@ -190,7 +233,6 @@ With multiple international awards and recognition, I combine theoretical knowle
 
 ### AI & Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000)
@@ -256,100 +298,124 @@ With multiple international awards and recognition, I combine theoretical knowle
 
 <div align="center">
 
-## 🎨 DOMAINS OF EXPERTISE
+## 🎨 SPECIALIZED DOMAINS
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4af0-b4d8-c2e105a0de28.gif" width="100%">
 
 </div>
 
-<table>
+<br>
+
+<table width="100%">
 <tr>
-<td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/><br>
-<img src="https://img.shields.io/badge/-ARTIFICIAL_INTELLIGENCE-00D9FF?style=for-the-badge&labelColor=000000" /><br><br>
-<sub>
-✦ <b>Agentic AI Systems</b><br>
-✦ Multi-Agent Orchestration<br>
-✦ Large Language Models<br>
-✦ Computer Vision & OCR<br>
-✦ Natural Language Processing<br>
-✦ Deep Learning Architectures<br>
-✦ Reinforcement Learning<br>
-✦ Transfer Learning
-</sub>
+<td width="33%" align="center" valign="top">
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/><br><br>
+<h3>🤖 ARTIFICIAL INTELLIGENCE</h3>
+<img src="https://img.shields.io/badge/CORE_EXPERTISE-00D9FF?style=for-the-badge&labelColor=000000" />
+<br><br>
+<p align="left">
+• Agentic AI Systems<br>
+• Multi-Agent Orchestration<br>
+• Large Language Models<br>
+• Computer Vision & OCR<br>
+• Natural Language Processing<br>
+• Deep Learning Architectures<br>
+• Reinforcement Learning<br>
+• Transfer Learning
+</p>
 </td>
-<td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/><br>
-<img src="https://img.shields.io/badge/-DEVOPS_&_CLOUD-FF6B6B?style=for-the-badge&labelColor=000000" /><br><br>
-<sub>
-✦ <b>Container Orchestration</b><br>
-✦ CI/CD Pipeline Design<br>
-✦ Infrastructure as Code<br>
-✦ Cloud Architecture (AWS/Azure)<br>
-✦ Microservices Design<br>
-✦ Automation & Monitoring<br>
-✦ GitOps Workflows<br>
-✦ Performance Optimization
-</sub>
+<td width="33%" align="center" valign="top">
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/><br><br>
+<h3>☸️ DEVOPS & CLOUD</h3>
+<img src="https://img.shields.io/badge/INFRASTRUCTURE-FF6B6B?style=for-the-badge&labelColor=000000" />
+<br><br>
+<p align="left">
+• Container Orchestration<br>
+• CI/CD Pipeline Design<br>
+• Infrastructure as Code<br>
+• Cloud Architecture (AWS/Azure)<br>
+• Microservices Architecture<br>
+• Automation & Monitoring<br>
+• GitOps Workflows<br>
+• Performance Optimization
+</p>
 </td>
-<td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/><br>
-<img src="https://img.shields.io/badge/-TECHNICAL_EDUCATION-FFD21E?style=for-the-badge&labelColor=000000" /><br><br>
-<sub>
-✦ <b>AI/ML Training Programs</b><br>
-✦ Python Programming<br>
-✦ DevOps Best Practices<br>
-✦ Workshop Development<br>
-✦ Curriculum Design<br>
-✦ Community Building<br>
-✦ Mentorship Programs<br>
-✦ Public Speaking
-</sub>
+<td width="33%" align="center" valign="top">
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/><br><br>
+<h3>👨‍🏫 EDUCATION & TRAINING</h3>
+<img src="https://img.shields.io/badge/LEADERSHIP-FFD21E?style=for-the-badge&labelColor=000000" />
+<br><br>
+<p align="left">
+• AI/ML Training Programs<br>
+• Advanced Python Programming<br>
+• DevOps Best Practices<br>
+• Workshop Development<br>
+• Curriculum Design<br>
+• Community Building<br>
+• Mentorship Programs<br>
+• Public Speaking & Advocacy
+</p>
 </td>
 </tr>
 <tr>
-<td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/><br>
-<img src="https://img.shields.io/badge/-CYBERSECURITY-9B59B6?style=for-the-badge&labelColor=000000" /><br><br>
-<sub>
-✦ <b>Ethical Hacking</b><br>
-✦ Penetration Testing<br>
-✦ Security Auditing<br>
-✦ OSINT Operations<br>
-✦ Vulnerability Assessment<br>
-✦ Security Hardening<br>
-✦ Network Security<br>
-✦ Application Security
-</sub>
+<td width="33%" align="center" valign="top">
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/><br><br>
+<h3>🔐 CYBERSECURITY</h3>
+<img src="https://img.shields.io/badge/SECURITY-9B59B6?style=for-the-badge&labelColor=000000" />
+<br><br>
+<p align="left">
+• Ethical Hacking<br>
+• Penetration Testing<br>
+• Security Auditing<br>
+• OSINT Operations<br>
+• Vulnerability Assessment<br>
+• Security Hardening<br>
+• Network Security<br>
+• Application Security
+</p>
 </td>
-<td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100"/><br>
-<img src="https://img.shields.io/badge/-GAME_DEVELOPMENT-E67E22?style=for-the-badge&labelColor=000000" /><br><br>
-<sub>
-✦ <b>Unity 3D/2D</b><br>
-✦ Game Mechanics Design<br>
-✦ Physics Simulation<br>
-✦ AI Behavior Trees<br>
-✦ Shader Programming<br>
-✦ VR/AR Experiences<br>
-✦ Cross-Platform Development<br>
-✦ Game Optimization
-</sub>
+<td width="33%" align="center" valign="top">
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100"/><br><br>
+<h3>🎮 GAME DEVELOPMENT</h3>
+<img src="https://img.shields.io/badge/CREATIVE-E67E22?style=for-the-badge&labelColor=000000" />
+<br><br>
+<p align="left">
+• Unity 3D/2D Development<br>
+• Game Mechanics Design<br>
+• Physics Simulation<br>
+• AI Behavior Trees<br>
+• Shader Programming<br>
+• VR/AR Experiences<br>
+• Cross-Platform Development<br>
+• Game Optimization
+</p>
 </td>
-<td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/><br>
-<img src="https://img.shields.io/badge/-MOBILE_DEVELOPMENT-1ABC9C?style=for-the-badge&labelColor=000000" /><br><br>
-<sub>
-✦ <b>Flutter Development</b><br>
-✦ Cross-Platform Apps<br>
-✦ State Management (Bloc, Riverpod)<br>
-✦ REST API Integration<br>
-✦ Firebase Backend<br>
-✦ App Store Deployment<br>
-✦ UI/UX Implementation<br>
-✦ Performance Tuning
-</sub>
+<td width="33%" align="center" valign="top">
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/><br><br>
+<h3>📱 MOBILE DEVELOPMENT</h3>
+<img src="https://img.shields.io/badge/APPLICATIONS-1ABC9C?style=for-the-badge&labelColor=000000" />
+<br><br>
+<p align="left">
+• Flutter Development<br>
+• Cross-Platform Apps<br>
+• State Management (Bloc, Riverpod)<br>
+• REST API Integration<br>
+• Firebase Backend<br>
+• App Store Deployment<br>
+• UI/UX Implementation<br>
+• Performance Tuning
+</p>
 </td>
 </tr>
 </table>
+
+<br>
 
 ---
 
@@ -773,40 +839,4 @@ Portfolio Building</sub>
 
 ---
 
-<div align="center">
-
-## 🌟 FEATURED REPOSITORIES
-
-*Check out my pinned repositories below to see innovation in action* 🚀
-
-<br>
-
-<img src="https://img.shields.io/badge/👇_EXPLORE_MY_WORK-GITHUB_REPOSITORIES-00D9FF?style=for-the-badge&labelColor=000000" />
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" />
-</div>
-
-<div align="center">
-
-  <br>
-
-  ![Made with Love](https://img.shields.io/badge/Made_with-❤️_and_AI-FF6B6B?style=for-the-badge&labelColor=000000)
-  ![Last Updated](https://img.shields.io/badge/Last_Updated-December_2024-00D9FF?style=for-the-badge&labelColor=000000)
-  ![Powered By](https://img.shields.io/badge/Powered_By-Innovation-FFD700?style=for-the-badge&labelColor=000000)
-
-  <br>
-
-  **Thank you for visiting my profile! Let's innovate together! 🚀**
-
-  <br>
-
-  <sub>© 2024 Ibrahim Samad. All rights reserved.</sub>
-
-</div>
+<div align="
