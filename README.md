@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=IBRAHIM%20SAMAD&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer+%7C+Robotics+Pioneer+%7C+Innovation+Leader;Agentic+AI+%E2%80%A2+Multi-Agent+Systems+%E2%80%A2+LLMs;Building+Tomorrow's+Intelligence+Today+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=AI+Engineer+%7C+Innovation+Leader;Agentic+AI+%E2%80%A2+LLMs+%E2%80%A2+Multi-Agent+Systems;Building+Tomorrow's+Intelligence+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
