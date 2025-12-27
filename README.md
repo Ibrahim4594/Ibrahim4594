@@ -107,108 +107,65 @@ With multiple international awards and recognition, I combine theoretical knowle
 
 ## 🎯 CORE MISSION
 
-<pre>
-<code>
-class IbrahimSamad:
-    """
-    AI Engineer & Innovation Leader
-    Transforming ideas into intelligent solutions
-    """
+<table>
+<tr>
+<td width="50%">
 
-    def __init__(self):
-        self.name = "Ibrahim Samad"
-        self.role = "AI Engineer & Innovation Leader"
-        self.mission = "Democratizing AI Education"
-        self.vision = "Building Intelligent Systems That Matter"
-        self.location = "Pakistan 🇵🇰"
-        self.portfolio = "https://portfolio-website-ibrahim-samad.vercel.app/"
+### 🤖 AI/ML Expertise
+- Agentic AI & Multi-Agent Systems
+- Large Language Models (LLMs)
+- RAG (Retrieval-Augmented Generation)
+- Computer Vision & Image Processing
+- Natural Language Processing
+- Deep Learning & Neural Networks
+- Reinforcement Learning
 
-    def expertise(self):
-        return {
-            "AI/ML": [
-                "Agentic AI & Multi-Agent Systems",
-                "Large Language Models (LLMs)",
-                "RAG (Retrieval-Augmented Generation)",
-                "Computer Vision & Image Processing",
-                "Natural Language Processing",
-                "Deep Learning & Neural Networks",
-                "Reinforcement Learning"
-            ],
-            "Cloud & Infrastructure": [
-                "AWS (EC2, S3, Lambda, SageMaker)",
-                "Microsoft Azure (ML, DevOps)",
-                "Google Cloud Platform",
-                "Kubernetes Orchestration",
-                "Docker Containerization",
-                "Terraform IaC"
-            ],
-            "DevOps & MLOps": [
-                "CI/CD Pipelines (Jenkins, GitHub Actions)",
-                "Infrastructure as Code",
-                "Model Deployment & Monitoring",
-                "Automation & Orchestration",
-                "Microservices Architecture",
-                "GitOps Workflows"
-            ],
-            "Security": [
-                "Ethical Hacking & Penetration Testing",
-                "OSINT (Open Source Intelligence)",
-                "Vulnerability Assessment",
-                "Security Auditing",
-                "Network Security",
-                "Application Security"
-            ],
-            "Education & Mentorship": [
-                "Technical Training & Workshops",
-                "Curriculum Development",
-                "AI/ML Bootcamps",
-                "Career Mentoring",
-                "Community Building",
-                "Public Speaking"
-            ]
-        }
+### ☁️ Cloud & Infrastructure
+- AWS (EC2, S3, Lambda, SageMaker)
+- Microsoft Azure (ML, DevOps)
+- Google Cloud Platform
+- Kubernetes Orchestration
+- Docker Containerization
+- Terraform IaC
 
-    def current_focus(self):
-        return [
-            "🤖 Building production-ready AI agents with LangChain",
-            "☸️ Scaling ML systems on Kubernetes clusters",
-            "👨‍🏫 Training future AI engineers through hands-on projects",
-            "🌟 Contributing to open-source AI projects and tools",
-            "🔬 Researching multi-modal AI and edge computing",
-            "🎓 Developing interactive AI learning platforms"
-        ]
+### 🔐 Security
+- Ethical Hacking & Penetration Testing
+- OSINT (Open Source Intelligence)
+- Vulnerability Assessment
+- Security Auditing
+- Network Security
+- Application Security
 
-    def achievements(self):
-        return {
-            "awards": [
-                "🥇 HBL PASHA ICT Awards 2025 Winner",
-                "🥇 Gold Medal - Michigan Engineering University (D2D)",
-                "🌍 United Nations Digital Innovation Finalist",
-                "🚀 NASA Space Apps Challenge Global Nominee"
-            ],
-            "leadership": [
-                "🎓 Senior Instructor at UTech",
-                "🌟 UTech Ambassador",
-                "👨‍🏫 AI/ML Workshop Facilitator",
-                "🤝 Open Source Contributor"
-            ],
-            "impact": {
-                "students_trained": "500+",
-                "projects_delivered": "50+",
-                "workshops_conducted": "30+",
-                "countries_reached": "15+"
-            }
-        }
+</td>
+<td width="50%">
 
-    def connect(self):
-        return {
-            "portfolio": "https://portfolio-website-ibrahim-samad.vercel.app/",
-            "linkedin": "https://www.linkedin.com/in/ibrahim-samad-525240342/",
-            "facebook": "https://www.facebook.com/ibrahim.aiwala",
-            "github": "https://github.com/Ibrahim4594"
-        }
-</code>
-</pre>
+### 🚀 DevOps & MLOps
+- CI/CD Pipelines (Jenkins, GitHub Actions)
+- Infrastructure as Code
+- Model Deployment & Monitoring
+- Automation & Orchestration
+- Microservices Architecture
+- GitOps Workflows
+
+### 👨‍🏫 Education & Mentorship
+- Technical Training & Workshops
+- Curriculum Development
+- AI/ML Bootcamps
+- Career Mentoring
+- Community Building
+- Public Speaking
+
+### 🎯 Current Focus
+- 🤖 Building production-ready AI agents with LangChain
+- ☸️ Scaling ML systems on Kubernetes clusters
+- 👨‍🏫 Training future AI engineers through hands-on projects
+- 🌟 Contributing to open-source AI projects and tools
+- 🔬 Researching multi-modal AI and edge computing
+- 🎓 Developing interactive AI learning platforms
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
