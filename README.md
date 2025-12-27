@@ -62,7 +62,7 @@
     <sub><b>D2D Program Excellence</b><br>University of Michigan 🎓</sub>
   </td>
   <td align="center" width="25%">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" height="100"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47cd1db7-4529-4231-abe7-23cc09a9f6bd.gif" width="100" height="100"/>
     <h3>🌍 UNITED NATIONS</h3>
     <img src="https://img.shields.io/badge/FINALIST-00A6ED?style=for-the-badge&labelColor=000000" />
     <br><br>
@@ -73,7 +73,7 @@
     <h3>🚀 NASA SPACE APPS</h3>
     <img src="https://img.shields.io/badge/GLOBAL_NOMINEE-E03C31?style=for-the-badge&labelColor=000000" />
     <br><br>
-    <sub><b>Top from 1300+ Projects</b><br>Ambassador & Participant 🛸</sub>
+    <sub><b>Top from 1300+ Projects</b><br>Ambassador / Global Nominee 🛸</sub>
   </td>
 </tr>
 </table>
