@@ -207,98 +207,46 @@
   https://img.shields.io/badge/Countries_Reached-15+-1ABC9C?style=flat-square&labelColor=000000
 
   ---
-  🛠️ TECHNOLOGY ARSENAL
+  **The key fix:** Make sure there are:
+  1. **Three backticks** ` ``` ` before `python`
+  2. **Three backticks** ` ``` ` after the code block
+  3. **No extra spaces or characters**
 
-  AI & Machine Learning
+  If you're still seeing HTML code, try this **ALTERNATIVE VERSION** (without the fancy formatting):
 
-  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000
-
-  LLM & Generative AI
-
-  https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=000000
-  https://img.shields.io/badge/Anthropic_Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/LlamaIndex-6366F1?style=for-the-badge&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white&labelColor=000000
-
-  Cloud & DevOps
-
-  https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=000000
-
-  Databases & Backend
-
-  https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white&labelColor=000000
-
-  Development Tools
-
-  https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000
-  https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=000000
-
-  Additional Technologies
-
-  https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000
-  https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=000000
-  https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=000000
-
+  ```markdown
   ---
-  🎨 DOMAINS OF EXPERTISE
 
-  ---
-  📊 GITHUB CONTRIBUTION INSIGHTS
+  ## 🎯 CORE MISSION
 
+  ```python
+  class IbrahimSamad:
+      def __init__(self):
+          self.name = "Ibrahim Samad"
+          self.role = "AI Engineer & Innovation Leader"
+          self.mission = "Democratizing AI Education"
+          self.vision = "Building Intelligent Systems That Matter"
 
+      def expertise(self):
+          return {
+              "AI/ML": ["Agentic AI", "LLMs", "RAG", "Computer Vision", "NLP", "Deep Learning"],
+              "Cloud": ["AWS", "Azure", "GCP", "Kubernetes", "Docker", "Terraform"],
+              "DevOps": ["CI/CD", "MLOps", "Infrastructure as Code", "Automation"],
+              "Security": ["Ethical Hacking", "Penetration Testing", "OSINT"],
+              "Education": ["Technical Training", "Mentorship", "Workshops"]
+          }
 
-  https://github.com/Ibrahim4594
+      def current_focus(self):
+          return [
+              "🤖 Building production-ready AI agents",
+              "☸️ Scaling ML systems on Kubernetes",
+              "👨‍🏫 Training future AI engineers",
+              "🌟 Contributing to open-source AI projects"
+          ]
 
-  ---
-  🤝 LET'S COLLABORATE
+  📊 Quick Stats
 
-  💡 OPEN FOR OPPORTUNITIES
-
-  ---
-  📬 CONNECT WITH ME
-
-
-
-
-
-  💭 MY PHILOSOPHY
-
-  "The intersection of artificial intelligence and human creativity is where true innovation happens. Every challenge is an opportunity to learn, every failure a stepping stone to success, and every line of code a chance to make a positive impact on the world."
-
-  🌟 If my work inspires you, please star my repositories! ⭐
-
-  ---
-  🌟 FEATURED PROJECTS & REPOSITORIES
-
-  Explore my work and see innovation in action 🚀
-
-    https://img.shields.io/badge/Made_with-❤️_and_AI-FF6B6B?style=for-the-badge&labelColor=000000
-    https://img.shields.io/badge/Last_Updated-December_2024-00D9FF?style=for-the-badge&labelColor=000000
-    https://img.shields.io/badge/Powered_By-Innovation-FFD700?style=for-the-badge&labelColor=000000
+  https://img.shields.io/badge/AI_Projects-50+-00D9FF?style=flat-square&labelColor=000000
+  https://img.shields.io/badge/Students_Trained-500+-FFD700?style=flat-square&labelColor=000000
+  https://img.shields.io/badge/Code_Commits-2000+-FF6B6B?style=flat-square&labelColor=000000
+  https://img.shields.io/badge/Workshops-30+-9B59B6?style=flat-square&labelColor=000000
