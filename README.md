@@ -738,48 +738,58 @@ Portfolio Building</sub>
 
 <div align="center">
 
-## 🌐 COMMUNITY IMPACT
+## 🌐 GLOBAL IMPACT & REACH
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4af0-b4d8-c2e105a0de28.gif" width="100%">
 
 </div>
 
-<table>
+<br>
+
+<table width="100%">
 <tr>
 <td width="33%" align="center">
-<img src="https://img.shields.io/badge/500+-FFD700?style=for-the-badge&labelColor=000000" /><br>
-<sub><b>Students Trained</b></sub><br>
-<sub>In AI/ML & DevOps</sub>
+<h2>👨‍🎓</h2>
+<h1>500+</h1>
+<h3>Students Trained</h3>
+<p><sub>AI/ML & DevOps Programs</sub></p>
 </td>
 <td width="33%" align="center">
-<img src="https://img.shields.io/badge/30+-00D9FF?style=for-the-badge&labelColor=000000" /><br>
-<sub><b>Workshops Conducted</b></sub><br>
-<sub>Across Multiple Cities</sub>
+<h2>📚</h2>
+<h1>30+</h1>
+<h3>Workshops Conducted</h3>
+<p><sub>Across Multiple Cities</sub></p>
 </td>
 <td width="33%" align="center">
-<img src="https://img.shields.io/badge/50+-FF6B6B?style=for-the-badge&labelColor=000000" /><br>
-<sub><b>Projects Delivered</b></sub><br>
-<sub>Production-Grade Solutions</sub>
+<h2>🚀</h2>
+<h1>50+</h1>
+<h3>Projects Delivered</h3>
+<p><sub>Production-Grade Solutions</sub></p>
 </td>
 </tr>
 <tr>
 <td width="33%" align="center">
-<img src="https://img.shields.io/badge/15+-9B59B6?style=for-the-badge&labelColor=000000" /><br>
-<sub><b>Countries Reached</b></sub><br>
-<sub>Global Impact</sub>
+<h2>🌍</h2>
+<h1>15+</h1>
+<h3>Countries Reached</h3>
+<p><sub>Global Educational Impact</sub></p>
 </td>
 <td width="33%" align="center">
-<img src="https://img.shields.io/badge/100+-1ABC9C?style=for-the-badge&labelColor=000000" /><br>
-<sub><b>Open Source Contributions</b></sub><br>
-<sub>Issues & PRs</sub>
+<h2>💻</h2>
+<h1>100+</h1>
+<h3>Open Source Contributions</h3>
+<p><sub>Issues & Pull Requests</sub></p>
 </td>
 <td width="33%" align="center">
-<img src="https://img.shields.io/badge/10K+-E67E22?style=for-the-badge&labelColor=000000" /><br>
-<sub><b>Community Members</b></sub><br>
-<sub>Social Media Reach</sub>
+<h2>👥</h2>
+<h1>10K+</h1>
+<h3>Community Members</h3>
+<p><sub>Social Media Reach</sub></p>
 </td>
 </tr>
 </table>
+
+<br>
 
 ---
 
@@ -839,4 +849,40 @@ Portfolio Building</sub>
 
 ---
 
-<div align="
+<div align="center">
+
+## 🌟 FEATURED REPOSITORIES
+
+*Check out my pinned repositories below to see innovation in action* 🚀
+
+<br>
+
+<img src="https://img.shields.io/badge/👇_EXPLORE_MY_WORK-GITHUB_REPOSITORIES-00D9FF?style=for-the-badge&labelColor=000000" />
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" />
+</div>
+
+<div align="center">
+
+  <br>
+
+  ![Made with Love](https://img.shields.io/badge/Made_with-❤️_and_AI-FF6B6B?style=for-the-badge&labelColor=000000)
+  ![Last Updated](https://img.shields.io/badge/Last_Updated-December_2024-00D9FF?style=for-the-badge&labelColor=000000)
+  ![Powered By](https://img.shields.io/badge/Powered_By-Innovation-FFD700?style=for-the-badge&labelColor=000000)
+
+  <br>
+
+  **Thank you for visiting my profile! Let's innovate together! 🚀**
+
+  <br>
+
+  <sub>© 2024 Ibrahim Samad. All rights reserved.</sub>
+
+</div>
