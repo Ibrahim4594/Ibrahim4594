@@ -126,7 +126,7 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 
 ### 🎯 Mission Statement
 
-**Building ethical, scalable AI systems** that solve real problems while **training 500+ future engineers** to carry the torch forward.
+**Building ethical, scalable AI systems** that solve real problems and create meaningful impact in the world of artificial intelligence.
 
 <br>
 
@@ -141,11 +141,11 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 <br>
 
 🏆 **4** International Awards
-👨‍🎓 **500+** Students Trained
 🚀 **50+** AI Projects Delivered
 🌍 **15+** Countries Reached
-📚 **30+** Workshops Conducted
 💻 **2000+** Code Commits
+🤖 **Production-Ready** AI Systems
+⭐ **Open Source** Contributor
 
 <br>
 
@@ -246,33 +246,16 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 **Active Projects & Research:**
 - 🤖 Building Agentic AI with **LangChain**
 - ☸️ Scaling ML on **Kubernetes**
-- 👨‍🏫 Training **500+ students** in AI/MLOps
 - 🌟 Contributing to **open-source** AI tools
 - 🔬 Researching **multi-modal** AI
-- 🎓 Creating **interactive** learning platforms
+- 🎓 Developing **interactive** AI platforms
+- 🚀 Deploying **production-grade** ML systems
 
 <br>
 
   </td>
 </tr>
 </table>
-
-<br>
-
-<div align="center">
-
-### 📊 Impact Metrics
-
-<br>
-
-![](https://img.shields.io/badge/AI_Projects-50+-00D9FF?style=for-the-badge&labelColor=000000)
-![](https://img.shields.io/badge/Students_Trained-500+-FFD700?style=for-the-badge&labelColor=000000)
-![](https://img.shields.io/badge/Code_Commits-2000+-FF6B6B?style=for-the-badge&labelColor=000000)
-![](https://img.shields.io/badge/Workshops-30+-9B59B6?style=for-the-badge&labelColor=000000)
-![](https://img.shields.io/badge/Countries-15+-1ABC9C?style=for-the-badge&labelColor=000000)
-![](https://img.shields.io/badge/Awards-4-FFD700?style=for-the-badge&labelColor=000000)
-
-</div>
 
 <br>
 
@@ -623,11 +606,11 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 **Senior Instructor** @ UTech
 *2022 - Present*
 
-- 👨‍🎓 Trained **500+ students** in AI/ML and DevOps
-- 📚 Developed comprehensive curriculum
-- 🎤 Conducted **30+ workshops** and seminars
-- 🌟 Achieved **95% student satisfaction** rate
+- 📚 Developed comprehensive AI/ML curriculum
+- 🎤 Conducted technical workshops and seminars
+- 🌟 Achieved excellent teaching performance ratings
 - 🏆 Recognized as **Top Instructor 2023**
+- 💡 Created hands-on learning programs
 
 <br>
 
@@ -823,7 +806,7 @@ Topics: MLOps, K8s, Auto-scaling
 <br>
 
 **📍 "AI Ethics & Responsible Development"**
-*University Seminar 2024 | 300+ students*
+*University Seminar 2024 | 300+ attendees*
 Topics: Bias, Fairness, Privacy
 
 <br>
@@ -860,7 +843,7 @@ Topics: Learning Path, Resources
 → Penetration testing basics
 → OSINT techniques
 → Security best practices
-✅ **Certified Students:** 150+
+✅ **Completion Rate:** 90%
 
 <br>
 
@@ -959,77 +942,6 @@ Topics: Learning Path, Resources
     1-on-1 Mentoring<br>
     Portfolio Building</sub>
     <br><br>
-  </td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4af0-b4d8-c2e105a0de28.gif" width="100%">
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🌐 GLOBAL IMPACT & REACH
-
-</div>
-
-<br>
-
-<table width="100%">
-<tr>
-  <td width="33%" align="center">
-    <br>
-    <h2>👨‍🎓</h2>
-    <h1>500+</h1>
-    <h3>Students Trained</h3>
-    <p><sub>AI/ML & DevOps Programs</sub></p>
-    <br>
-  </td>
-  <td width="33%" align="center">
-    <br>
-    <h2>📚</h2>
-    <h1>30+</h1>
-    <h3>Workshops Conducted</h3>
-    <p><sub>Across Multiple Cities</sub></p>
-    <br>
-  </td>
-  <td width="33%" align="center">
-    <br>
-    <h2>🚀</h2>
-    <h1>50+</h1>
-    <h3>Projects Delivered</h3>
-    <p><sub>Production-Grade Solutions</sub></p>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td width="33%" align="center">
-    <br>
-    <h2>🌍</h2>
-    <h1>15+</h1>
-    <h3>Countries Reached</h3>
-    <p><sub>Global Educational Impact</sub></p>
-    <br>
-  </td>
-  <td width="33%" align="center">
-    <br>
-    <h2>💻</h2>
-    <h1>100+</h1>
-    <h3>Open Source Contributions</h3>
-    <p><sub>Issues & Pull Requests</sub></p>
-    <br>
-  </td>
-  <td width="33%" align="center">
-    <br>
-    <h2>👥</h2>
-    <h1>10K+</h1>
-    <h3>Community Members</h3>
-    <p><sub>Social Media Reach</sub></p>
-    <br>
   </td>
 </tr>
 </table>
