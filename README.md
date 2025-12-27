@@ -2,83 +2,102 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=IBRAHIM%20SAMAD&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=AI+Engineer+%7C+Innovation+Leader;Agentic+AI+%E2%80%A2+LLMs+%E2%80%A2+Multi-Agent+Systems;Building+Tomorrow's+Intelligence+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<br>
 
-<p align="center">
-  <a href="https://portfolio-website-ibrahim-samad.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-00D9FF?style=for-the-badge&labelColor=000000" /></a>
-  <a href="https://www.linkedin.com/in/ibrahim-samad-525240342/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
-  <a href="https://www.facebook.com/ibrahim.aiwala"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000" /></a>
-  <a href="https://github.com/Ibrahim4594"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=AI+Engineer+%7C+Innovation+Leader;Agentic+AI+%E2%80%A2+LLMs+%E2%80%A2+Multi-Agent+Systems;Building+Tomorrow's+Intelligence+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ibrahim4594&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Ibrahim4594?style=for-the-badge&color=00d9ff&labelColor=000000&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Ibrahim4594?style=for-the-badge&color=00d9ff&labelColor=000000&logo=github" alt="Stars" />
-</p>
+<br>
+
+<a href="https://portfolio-website-ibrahim-samad.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-00D9FF?style=for-the-badge&labelColor=000000" />
+</a>
+<a href="https://www.linkedin.com/in/ibrahim-samad-525240342/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://www.facebook.com/ibrahim.aiwala">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000" />
+</a>
+<a href="https://github.com/Ibrahim4594">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Ibrahim4594&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Ibrahim4594?style=for-the-badge&color=00d9ff&labelColor=000000&logo=github" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Ibrahim4594?style=for-the-badge&color=00d9ff&labelColor=000000&logo=github" alt="Stars" />
 
 </div>
 
----
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4af0-b4d8-c2e105a0de28.gif" width="100%">
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 🏆 GLOBAL RECOGNITION & ACHIEVEMENTS
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4af0-b4d8-c2e105a0de28.gif" width="100%">
-
 </div>
 
 <br>
 
-<table align="center" width="95%">
+<table align="center" width="100%">
 <tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" height="100"/>
-<h3>🥇 HBL PASHA ICT</h3>
-<img src="https://img.shields.io/badge/WINNER_2025-FFD700?style=for-the-badge&labelColor=000000" />
-<br><br>
-<sub><b>Innovation in Technology</b><br>Lahore, Pakistan 🇵🇰</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="100" height="100"/>
-<h3>🥇 MICHIGAN ENGINEERING</h3>
-<img src="https://img.shields.io/badge/GOLD_MEDAL-FFD700?style=for-the-badge&labelColor=000000" />
-<br><br>
-<sub><b>D2D Program Excellence</b><br>University of Michigan 🎓</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" height="100"/>
-<h3>🌍 UNITED NATIONS</h3>
-<img src="https://img.shields.io/badge/FINALIST-00A6ED?style=for-the-badge&labelColor=000000" />
-<br><br>
-<sub><b>Digital Innovation</b><br>Global Recognition 🌐</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100" height="100"/>
-<h3>🚀 NASA SPACE APPS</h3>
-<img src="https://img.shields.io/badge/GLOBAL_NOMINEE-E03C31?style=for-the-badge&labelColor=000000" />
-<br><br>
-<sub><b>Top from 1300+ Projects</b><br>Ambassador & Participant 🛸</sub>
-</td>
+  <td align="center" width="25%">
+    <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" height="100"/>
+    <h3>🥇 HBL PASHA ICT</h3>
+    <img src="https://img.shields.io/badge/WINNER_2025-FFD700?style=for-the-badge&labelColor=000000" />
+    <br><br>
+    <sub><b>Innovation in Technology</b><br>Lahore, Pakistan 🇵🇰</sub>
+  </td>
+  <td align="center" width="25%">
+    <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="100" height="100"/>
+    <h3>🥇 MICHIGAN ENGINEERING</h3>
+    <img src="https://img.shields.io/badge/GOLD_MEDAL-FFD700?style=for-the-badge&labelColor=000000" />
+    <br><br>
+    <sub><b>D2D Program Excellence</b><br>University of Michigan 🎓</sub>
+  </td>
+  <td align="center" width="25%">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" height="100"/>
+    <h3>🌍 UNITED NATIONS</h3>
+    <img src="https://img.shields.io/badge/FINALIST-00A6ED?style=for-the-badge&labelColor=000000" />
+    <br><br>
+    <sub><b>Digital Innovation</b><br>Global Recognition 🌐</sub>
+  </td>
+  <td align="center" width="25%">
+    <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100" height="100"/>
+    <h3>🚀 NASA SPACE APPS</h3>
+    <img src="https://img.shields.io/badge/GLOBAL_NOMINEE-E03C31?style=for-the-badge&labelColor=000000" />
+    <br><br>
+    <sub><b>Top from 1300+ Projects</b><br>Ambassador & Participant 🛸</sub>
+  </td>
 </tr>
 </table>
 
+<br>
+
 <div align="center">
-<br>
 
-![](https://img.shields.io/badge/🎓_SENIOR_INSTRUCTOR-UTech-00D9FF?style=for-the-badge&labelColor=000000)
-![](https://img.shields.io/badge/🌟_AMBASSADOR-UTech-FFD700?style=for-the-badge&labelColor=000000)
+<img src="https://img.shields.io/badge/🎓_SENIOR_INSTRUCTOR-UTech-00D9FF?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🌟_AMBASSADOR-UTech-FFD700?style=for-the-badge&labelColor=000000" />
 
-<br>
+<br><br>
+
 <sub><i>💫 Empowering the Next Generation of AI Engineers & Innovators</i></sub>
+
 </div>
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4af0-b4d8-c2e105a0de28.gif" width="100%">
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -88,11 +107,14 @@
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
-<td width="60%">
+  <td width="60%" valign="top">
+    <br>
 
 > ### *"Transforming ideas into intelligent solutions that shape the future"*
+
+<br>
 
 A **visionary AI Engineer**, **award-winning innovator**, and **passionate educator** on a mission to democratize artificial intelligence and empower the next generation of tech leaders.
 
@@ -106,12 +128,17 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 
 **Building ethical, scalable AI systems** that solve real problems while **training 500+ future engineers** to carry the torch forward.
 
-</td>
-<td width="40%">
+<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
+  </td>
+  <td width="40%" align="center" valign="top">
+    <br>
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
+    <br><br>
 
 ### 📊 Impact At A Glance
+
+<br>
 
 🏆 **4** International Awards
 👨‍🎓 **500+** Students Trained
@@ -120,13 +147,19 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 📚 **30+** Workshops Conducted
 💻 **2000+** Code Commits
 
-</td>
+<br>
+
+  </td>
 </tr>
 </table>
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4af0-b4d8-c2e105a0de28.gif" width="100%">
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -140,7 +173,8 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+  <td width="50%" valign="top">
+    <br>
 
 ### 🤖 Artificial Intelligence & ML
 
@@ -153,6 +187,8 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 - 🔮 Deep Learning & Neural Networks
 - 🎮 Reinforcement Learning
 
+<br>
+
 ### ☁️ Cloud & Infrastructure
 
 **Production-Grade Deployment:**
@@ -162,6 +198,8 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 - ☸️ Kubernetes Orchestration
 - 🐳 Docker Containerization
 - 🏗️ Terraform Infrastructure as Code
+
+<br>
 
 ### 🔐 Cybersecurity
 
@@ -173,8 +211,11 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 - 🌐 Network Security Architecture
 - 🔒 Application Security Best Practices
 
-</td>
-<td width="50%" valign="top">
+<br>
+
+  </td>
+  <td width="50%" valign="top">
+    <br>
 
 ### 🚀 DevOps & MLOps
 
@@ -186,6 +227,8 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 - 🏛️ Microservices Architecture
 - 🔀 GitOps Workflows
 
+<br>
+
 ### 👨‍🏫 Education & Leadership
 
 **Empowering Future Engineers:**
@@ -195,6 +238,8 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 - 🤝 Career Mentoring Programs
 - 🌟 Tech Community Building
 - 🎤 Public Speaking & Advocacy
+
+<br>
 
 ### 🎯 Current Focus (2025)
 
@@ -206,13 +251,19 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 - 🔬 Researching **multi-modal** AI
 - 🎓 Creating **interactive** learning platforms
 
-</td>
+<br>
+
+  </td>
 </tr>
 </table>
+
+<br>
 
 <div align="center">
 
 ### 📊 Impact Metrics
+
+<br>
 
 ![](https://img.shields.io/badge/AI_Projects-50+-00D9FF?style=for-the-badge&labelColor=000000)
 ![](https://img.shields.io/badge/Students_Trained-500+-FFD700?style=for-the-badge&labelColor=000000)
@@ -223,13 +274,25 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 
 </div>
 
----
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4af0-b4d8-c2e105a0de28.gif" width="100%">
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 🛠️ TECHNOLOGY ARSENAL
 
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+</div>
+
+<br>
+
+<div align="center">
 
 ### AI & Machine Learning
 
@@ -294,13 +357,17 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 
 </div>
 
----
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4af0-b4d8-c2e105a0de28.gif" width="100%">
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 🎨 SPECIALIZED DOMAINS
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4af0-b4d8-c2e105a0de28.gif" width="100%">
 
 </div>
 
@@ -308,12 +375,17 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 
 <table width="100%">
 <tr>
-<td width="33%" align="center" valign="top">
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/><br><br>
-<h3>🤖 ARTIFICIAL INTELLIGENCE</h3>
+  <td width="33%" align="center" valign="top">
+    <br>
+    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
+    <br><br>
+
+### 🤖 ARTIFICIAL INTELLIGENCE
+
 <img src="https://img.shields.io/badge/CORE_EXPERTISE-00D9FF?style=for-the-badge&labelColor=000000" />
+
 <br><br>
+
 <p align="left">
 • Agentic AI Systems<br>
 • Multi-Agent Orchestration<br>
@@ -324,13 +396,21 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 • Reinforcement Learning<br>
 • Transfer Learning
 </p>
-</td>
-<td width="33%" align="center" valign="top">
+
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/><br><br>
-<h3>☸️ DEVOPS & CLOUD</h3>
+
+  </td>
+  <td width="33%" align="center" valign="top">
+    <br>
+    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
+    <br><br>
+
+### ☸️ DEVOPS & CLOUD
+
 <img src="https://img.shields.io/badge/INFRASTRUCTURE-FF6B6B?style=for-the-badge&labelColor=000000" />
+
 <br><br>
+
 <p align="left">
 • Container Orchestration<br>
 • CI/CD Pipeline Design<br>
@@ -341,13 +421,21 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 • GitOps Workflows<br>
 • Performance Optimization
 </p>
-</td>
-<td width="33%" align="center" valign="top">
+
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/><br><br>
-<h3>👨‍🏫 EDUCATION & TRAINING</h3>
+
+  </td>
+  <td width="33%" align="center" valign="top">
+    <br>
+    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
+    <br><br>
+
+### 👨‍🏫 EDUCATION & TRAINING
+
 <img src="https://img.shields.io/badge/LEADERSHIP-FFD21E?style=for-the-badge&labelColor=000000" />
+
 <br><br>
+
 <p align="left">
 • AI/ML Training Programs<br>
 • Advanced Python Programming<br>
@@ -358,15 +446,23 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 • Mentorship Programs<br>
 • Public Speaking & Advocacy
 </p>
-</td>
+
+<br>
+
+  </td>
 </tr>
 <tr>
-<td width="33%" align="center" valign="top">
-<br>
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/><br><br>
-<h3>🔐 CYBERSECURITY</h3>
+  <td width="33%" align="center" valign="top">
+    <br>
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/>
+    <br><br>
+
+### 🔐 CYBERSECURITY
+
 <img src="https://img.shields.io/badge/SECURITY-9B59B6?style=for-the-badge&labelColor=000000" />
+
 <br><br>
+
 <p align="left">
 • Ethical Hacking<br>
 • Penetration Testing<br>
@@ -377,13 +473,21 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 • Network Security<br>
 • Application Security
 </p>
-</td>
-<td width="33%" align="center" valign="top">
+
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100"/><br><br>
-<h3>🎮 GAME DEVELOPMENT</h3>
+
+  </td>
+  <td width="33%" align="center" valign="top">
+    <br>
+    <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100"/>
+    <br><br>
+
+### 🎮 GAME DEVELOPMENT
+
 <img src="https://img.shields.io/badge/CREATIVE-E67E22?style=for-the-badge&labelColor=000000" />
+
 <br><br>
+
 <p align="left">
 • Unity 3D/2D Development<br>
 • Game Mechanics Design<br>
@@ -394,13 +498,21 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 • Cross-Platform Development<br>
 • Game Optimization
 </p>
-</td>
-<td width="33%" align="center" valign="top">
+
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/><br><br>
-<h3>📱 MOBILE DEVELOPMENT</h3>
+
+  </td>
+  <td width="33%" align="center" valign="top">
+    <br>
+    <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
+    <br><br>
+
+### 📱 MOBILE DEVELOPMENT
+
 <img src="https://img.shields.io/badge/APPLICATIONS-1ABC9C?style=for-the-badge&labelColor=000000" />
+
 <br><br>
+
 <p align="left">
 • Flutter Development<br>
 • Cross-Platform Apps<br>
@@ -411,13 +523,20 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 • UI/UX Implementation<br>
 • Performance Tuning
 </p>
-</td>
+
+<br>
+
+  </td>
 </tr>
 </table>
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4af0-b4d8-c2e105a0de28.gif" width="100%">
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -427,9 +546,12 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 
 </div>
 
-<table>
+<br>
+
+<table width="100%">
 <tr>
-<td width="50%">
+  <td width="50%" valign="top">
+    <br>
 
 ### 🎯 Academic Excellence
 
@@ -437,8 +559,12 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 *Design to Deployment (D2D) Program*
 *Excellence in Engineering & Innovation*
 
+<br>
+
 **🎓 Advanced Studies** in Computer Science
 *Specialization: Artificial Intelligence & Machine Learning*
+
+<br>
 
 **📚 Research Focus**
 - Multi-Agent AI Systems
@@ -446,8 +572,11 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 - Edge Computing & Optimization
 - Quantum Machine Learning
 
-</td>
-<td width="50%">
+<br>
+
+  </td>
+  <td width="50%" valign="top">
+    <br>
 
 ### 🏅 Professional Certifications
 
@@ -460,11 +589,19 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 ✅ **Ethical Hacking & Penetration Testing**
 ✅ **DevOps Engineering Professional**
 
-</td>
+<br>
+
+  </td>
 </tr>
 </table>
 
----
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4af0-b4d8-c2e105a0de28.gif" width="100%">
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -474,53 +611,75 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 
 </div>
 
-<table>
+<br>
+
+<table width="100%">
 <tr>
-<td width="50%">
+  <td width="50%" valign="top">
+    <br>
 
 ### 🎓 Education & Training
 
 **Senior Instructor** @ UTech
 *2022 - Present*
+
 - 👨‍🎓 Trained **500+ students** in AI/ML and DevOps
 - 📚 Developed comprehensive curriculum
 - 🎤 Conducted **30+ workshops** and seminars
 - 🌟 Achieved **95% student satisfaction** rate
 - 🏆 Recognized as **Top Instructor 2023**
 
+<br>
+
 **UTech Ambassador**
 *2023 - Present*
+
 - 🌍 Representing institution at events
 - 🤝 Building tech partnerships
 - 📢 Promoting STEM education
 - 💡 Organizing hackathons
 
-</td>
-<td width="50%">
+<br>
+
+  </td>
+  <td width="50%" valign="top">
+    <br>
 
 ### 💻 Technical Leadership
 
 **AI/ML Engineer** @ Freelance
 *2021 - Present*
+
 - 🤖 Developed **50+ AI/ML solutions**
 - ☁️ Deployed systems on **AWS/Azure/GCP**
 - 📊 Improved model accuracy by **30%**
 - ⚡ Reduced inference latency by **60%**
 - 💰 Delivered **$500K+** in project value
 
+<br>
+
 **Open Source Contributor**
 *2020 - Present*
+
 - 🌟 Active in **LangChain, FastAPI** communities
 - 🐛 Fixed **100+ issues** across projects
 - 📖 Created extensive documentation
 - 👥 Mentored **50+ contributors**
 - ⭐ Earned **1000+ GitHub stars**
 
-</td>
+<br>
+
+  </td>
 </tr>
 </table>
 
----
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4af0-b4d8-c2e105a0de28.gif" width="100%">
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -530,9 +689,12 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 
 </div>
 
-<table>
+<br>
+
+<table width="100%">
 <tr>
-<td width="50%">
+  <td width="50%" valign="top">
+    <br>
 
 ### 🤖 Agentic AI Projects
 
@@ -542,11 +704,15 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 🔹 Production-ready with 99.9% uptime
 ⭐ **Live:** [View Demo](https://portfolio-website-ibrahim-samad.vercel.app/)
 
+<br>
+
 **RAG-Powered Knowledge Base**
 🔹 LlamaIndex + ChromaDB + Streamlit
 🔹 Custom knowledge retrieval system
 🔹 Handles 1M+ documents efficiently
 ⭐ **Impact:** 40% faster information retrieval
+
+<br>
 
 **LLM Fine-tuning Pipeline**
 🔹 HuggingFace + LoRA + QLoRA
@@ -554,8 +720,11 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 🔹 Reduced training time by 50%
 ⭐ **Result:** State-of-the-art performance
 
-</td>
-<td width="50%">
+<br>
+
+  </td>
+  <td width="50%" valign="top">
+    <br>
 
 ### ☸️ DevOps & Infrastructure
 
@@ -565,11 +734,15 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 🔹 Auto-scaling with HPA/VPA
 ⭐ **Scale:** Handles 1000+ daily jobs
 
+<br>
+
 **MLOps CI/CD Pipeline**
 🔹 Jenkins + ArgoCD + Prometheus
 🔹 Automated deployment pipeline
 🔹 Zero-downtime deployments
 ⭐ **Achievement:** 10x faster releases
+
+<br>
 
 **Web Scraping Agent on K8s**
 🔹 FastAPI + Celery + Redis
@@ -577,11 +750,19 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 🔹 Scalable architecture
 ⭐ **GitHub:** [View Project](https://github.com/Ibrahim4594/kubernetes-web-scraper)
 
-</td>
+<br>
+
+  </td>
 </tr>
 </table>
 
----
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4af0-b4d8-c2e105a0de28.gif" width="100%">
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -593,16 +774,24 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 
 [![Ibrahim's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ibrahim4594&custom_title=Ibrahim's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=00d9ff&line=00d9ff&point=00d9ff&area_color=00d9ff&title_color=00d9ff&area=true)](https://github.com/Ibrahim4594)
 
-<br>
+<br><br>
 
 ### 📈 GitHub Statistics
+
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ibrahim4594&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&include_all_commits=true&count_private=true" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim4594&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" width="49%" />
 
 </div>
 
----
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4af0-b4d8-c2e105a0de28.gif" width="100%">
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -612,30 +801,42 @@ From architecting **multi-agent AI systems** to deploying **production-grade ML 
 
 </div>
 
-<table>
+<br>
+
+<table width="100%">
 <tr>
-<td width="50%">
+  <td width="50%" valign="top">
+    <br>
 
 ### 🎯 Recent Talks
 
-📍 **"Building Production-Ready AI Agents"**
+**📍 "Building Production-Ready AI Agents"**
 *AI Conference 2024 | 200+ attendees*
 Topics: LangChain, Multi-Agent Systems, RAG
 
-📍 **"Scaling ML on Kubernetes"**
+<br>
+
+**📍 "Scaling ML on Kubernetes"**
 *DevOps Summit 2024 | 150+ attendees*
 Topics: MLOps, K8s, Auto-scaling
 
-📍 **"AI Ethics & Responsible Development"**
+<br>
+
+**📍 "AI Ethics & Responsible Development"**
 *University Seminar 2024 | 300+ students*
 Topics: Bias, Fairness, Privacy
 
-📍 **"From Zero to AI Engineer"**
+<br>
+
+**📍 "From Zero to AI Engineer"**
 *Career Workshop 2024 | 100+ participants*
 Topics: Learning Path, Resources
 
-</td>
-<td width="50%">
+<br>
+
+  </td>
+  <td width="50%" valign="top">
+    <br>
 
 ### 🛠️ Workshop Series
 
@@ -645,11 +846,15 @@ Topics: Learning Path, Resources
 → Job placement assistance
 ✅ **Completion Rate:** 92%
 
+<br>
+
 **🔧 DevOps Masterclass** (4-week)
 → Docker, Kubernetes, CI/CD
 → Cloud deployment (AWS/Azure)
 → Real-world scenarios
 ✅ **Success Rate:** 88%
+
+<br>
 
 **🔧 Ethical Hacking 101** (6-week)
 → Penetration testing basics
@@ -657,11 +862,19 @@ Topics: Learning Path, Resources
 → Security best practices
 ✅ **Certified Students:** 150+
 
-</td>
+<br>
+
+  </td>
 </tr>
 </table>
 
----
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4af0-b4d8-c2e105a0de28.gif" width="100%">
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -669,78 +882,98 @@ Topics: Learning Path, Resources
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<br>
+
 ### 💡 LET'S BUILD SOMETHING AMAZING TOGETHER
 
 </div>
 
-<table align="center">
+<br>
+
+<table align="center" width="100%">
 <tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🔬_RESEARCH-COLLABORATION-00D9FF?style=for-the-badge&labelColor=000000" />
-<br><br>
-<sub><b>AI/ML Research Projects</b><br>
-Academic Partnerships<br>
-Innovation Labs<br>
-Joint Publications<br>
-Grant Applications</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🎤_SPEAKING-ENGAGEMENTS-FF6B6B?style=for-the-badge&labelColor=000000" />
-<br><br>
-<sub><b>Technical Conferences</b><br>
-Workshops & Training<br>
-Webinars & Podcasts<br>
-Panel Discussions<br>
-Keynote Speeches</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/💼_CONSULTING-SERVICES-FFD21E?style=for-the-badge&labelColor=000000" />
-<br><br>
-<sub><b>AI Strategy Consulting</b><br>
-DevOps Solutions<br>
-Cloud Architecture<br>
-ML System Design<br>
-Technical Audits</sub>
-</td>
+  <td align="center" width="33%">
+    <br>
+    <img src="https://img.shields.io/badge/🔬_RESEARCH-COLLABORATION-00D9FF?style=for-the-badge&labelColor=000000" />
+    <br><br>
+    <sub><b>AI/ML Research Projects</b><br>
+    Academic Partnerships<br>
+    Innovation Labs<br>
+    Joint Publications<br>
+    Grant Applications</sub>
+    <br><br>
+  </td>
+  <td align="center" width="33%">
+    <br>
+    <img src="https://img.shields.io/badge/🎤_SPEAKING-ENGAGEMENTS-FF6B6B?style=for-the-badge&labelColor=000000" />
+    <br><br>
+    <sub><b>Technical Conferences</b><br>
+    Workshops & Training<br>
+    Webinars & Podcasts<br>
+    Panel Discussions<br>
+    Keynote Speeches</sub>
+    <br><br>
+  </td>
+  <td align="center" width="33%">
+    <br>
+    <img src="https://img.shields.io/badge/💼_CONSULTING-SERVICES-FFD21E?style=for-the-badge&labelColor=000000" />
+    <br><br>
+    <sub><b>AI Strategy Consulting</b><br>
+    DevOps Solutions<br>
+    Cloud Architecture<br>
+    ML System Design<br>
+    Technical Audits</sub>
+    <br><br>
+  </td>
 </tr>
 <tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🌟_OPEN_SOURCE-CONTRIBUTIONS-9B59B6?style=for-the-badge&labelColor=000000" />
-<br><br>
-<sub><b>Community Projects</b><br>
-Tool Development<br>
-Documentation<br>
-Code Reviews<br>
-Maintenance</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/🤖_TECH-PARTNERSHIPS-E67E22?style=for-the-badge&labelColor=000000" />
-<br><br>
-<sub><b>Joint Ventures</b><br>
-Product Development<br>
-Innovation Projects<br>
-Startup Collaboration<br>
-Technology Transfer</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/📚_MENTORSHIP-PROGRAMS-1ABC9C?style=for-the-badge&labelColor=000000" />
-<br><br>
-<sub><b>Career Guidance</b><br>
-Skill Development<br>
-Project Reviews<br>
-1-on-1 Mentoring<br>
-Portfolio Building</sub>
-</td>
+  <td align="center" width="33%">
+    <br>
+    <img src="https://img.shields.io/badge/🌟_OPEN_SOURCE-CONTRIBUTIONS-9B59B6?style=for-the-badge&labelColor=000000" />
+    <br><br>
+    <sub><b>Community Projects</b><br>
+    Tool Development<br>
+    Documentation<br>
+    Code Reviews<br>
+    Maintenance</sub>
+    <br><br>
+  </td>
+  <td align="center" width="33%">
+    <br>
+    <img src="https://img.shields.io/badge/🤖_TECH-PARTNERSHIPS-E67E22?style=for-the-badge&labelColor=000000" />
+    <br><br>
+    <sub><b>Joint Ventures</b><br>
+    Product Development<br>
+    Innovation Projects<br>
+    Startup Collaboration<br>
+    Technology Transfer</sub>
+    <br><br>
+  </td>
+  <td align="center" width="33%">
+    <br>
+    <img src="https://img.shields.io/badge/📚_MENTORSHIP-PROGRAMS-1ABC9C?style=for-the-badge&labelColor=000000" />
+    <br><br>
+    <sub><b>Career Guidance</b><br>
+    Skill Development<br>
+    Project Reviews<br>
+    1-on-1 Mentoring<br>
+    Portfolio Building</sub>
+    <br><br>
+  </td>
 </tr>
 </table>
 
----
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4af0-b4d8-c2e105a0de28.gif" width="100%">
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 🌐 GLOBAL IMPACT & REACH
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4af0-b4d8-c2e105a0de28.gif" width="100%">
 
 </div>
 
@@ -748,50 +981,66 @@ Portfolio Building</sub>
 
 <table width="100%">
 <tr>
-<td width="33%" align="center">
-<h2>👨‍🎓</h2>
-<h1>500+</h1>
-<h3>Students Trained</h3>
-<p><sub>AI/ML & DevOps Programs</sub></p>
-</td>
-<td width="33%" align="center">
-<h2>📚</h2>
-<h1>30+</h1>
-<h3>Workshops Conducted</h3>
-<p><sub>Across Multiple Cities</sub></p>
-</td>
-<td width="33%" align="center">
-<h2>🚀</h2>
-<h1>50+</h1>
-<h3>Projects Delivered</h3>
-<p><sub>Production-Grade Solutions</sub></p>
-</td>
+  <td width="33%" align="center">
+    <br>
+    <h2>👨‍🎓</h2>
+    <h1>500+</h1>
+    <h3>Students Trained</h3>
+    <p><sub>AI/ML & DevOps Programs</sub></p>
+    <br>
+  </td>
+  <td width="33%" align="center">
+    <br>
+    <h2>📚</h2>
+    <h1>30+</h1>
+    <h3>Workshops Conducted</h3>
+    <p><sub>Across Multiple Cities</sub></p>
+    <br>
+  </td>
+  <td width="33%" align="center">
+    <br>
+    <h2>🚀</h2>
+    <h1>50+</h1>
+    <h3>Projects Delivered</h3>
+    <p><sub>Production-Grade Solutions</sub></p>
+    <br>
+  </td>
 </tr>
 <tr>
-<td width="33%" align="center">
-<h2>🌍</h2>
-<h1>15+</h1>
-<h3>Countries Reached</h3>
-<p><sub>Global Educational Impact</sub></p>
-</td>
-<td width="33%" align="center">
-<h2>💻</h2>
-<h1>100+</h1>
-<h3>Open Source Contributions</h3>
-<p><sub>Issues & Pull Requests</sub></p>
-</td>
-<td width="33%" align="center">
-<h2>👥</h2>
-<h1>10K+</h1>
-<h3>Community Members</h3>
-<p><sub>Social Media Reach</sub></p>
-</td>
+  <td width="33%" align="center">
+    <br>
+    <h2>🌍</h2>
+    <h1>15+</h1>
+    <h3>Countries Reached</h3>
+    <p><sub>Global Educational Impact</sub></p>
+    <br>
+  </td>
+  <td width="33%" align="center">
+    <br>
+    <h2>💻</h2>
+    <h1>100+</h1>
+    <h3>Open Source Contributions</h3>
+    <p><sub>Issues & Pull Requests</sub></p>
+    <br>
+  </td>
+  <td width="33%" align="center">
+    <br>
+    <h2>👥</h2>
+    <h1>10K+</h1>
+    <h3>Community Members</h3>
+    <p><sub>Social Media Reach</sub></p>
+    <br>
+  </td>
 </tr>
 </table>
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4af0-b4d8-c2e105a0de28.gif" width="100%">
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -807,13 +1056,13 @@ Portfolio Building</sub>
 
 <a href="https://www.linkedin.com/in/ibrahim-samad-525240342/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="40" alt="LinkedIn"/>
-</a>&nbsp;&nbsp;
+</a>
 <a href="https://www.facebook.com/ibrahim.aiwala">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000" height="40" alt="Facebook"/>
-</a>&nbsp;&nbsp;
+</a>
 <a href="https://github.com/Ibrahim4594">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="40" alt="GitHub"/>
-</a>&nbsp;&nbsp;
+</a>
 <a href="mailto:ibrahimsamad@example.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="40" alt="Email"/>
 </a>
@@ -828,11 +1077,13 @@ Portfolio Building</sub>
 
 </div>
 
+<br>
+
 > *"The intersection of artificial intelligence and human creativity is where true innovation happens. Every challenge is an opportunity to learn, every failure a stepping stone to success, and every line of code a chance to make a positive impact on the world."*
 
-<div align="center">
-
 <br>
+
+<div align="center">
 
 **🔥 Ready to collaborate on cutting-edge AI projects?**
 **🌟 Let's connect and build the future together!**
@@ -847,7 +1098,13 @@ Portfolio Building</sub>
 
 </div>
 
----
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4af0-b4d8-c2e105a0de28.gif" width="100%">
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -865,24 +1122,24 @@ Portfolio Building</sub>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" />
-</div>
+<br>
 
 <div align="center">
 
-  <br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" />
 
-  ![Made with Love](https://img.shields.io/badge/Made_with-❤️_and_AI-FF6B6B?style=for-the-badge&labelColor=000000)
-  ![Last Updated](https://img.shields.io/badge/Last_Updated-December_2024-00D9FF?style=for-the-badge&labelColor=000000)
-  ![Powered By](https://img.shields.io/badge/Powered_By-Innovation-FFD700?style=for-the-badge&labelColor=000000)
+<br>
 
-  <br>
+![Made with Love](https://img.shields.io/badge/Made_with-❤️_and_AI-FF6B6B?style=for-the-badge&labelColor=000000)
+![Last Updated](https://img.shields.io/badge/Last_Updated-December_2024-00D9FF?style=for-the-badge&labelColor=000000)
+![Powered By](https://img.shields.io/badge/Powered_By-Innovation-FFD700?style=for-the-badge&labelColor=000000)
 
-  **Thank you for visiting my profile! Let's innovate together! 🚀**
+<br>
 
-  <br>
+**Thank you for visiting my profile! Let's innovate together! 🚀**
 
-  <sub>© 2024 Ibrahim Samad. All rights reserved.</sub>
+<br>
+
+<sub>© 2024 Ibrahim Samad. All rights reserved.</sub>
 
 </div>
