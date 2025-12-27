@@ -107,7 +107,8 @@ With multiple international awards and recognition, I combine theoretical knowle
 
 ## 🎯 CORE MISSION
 
-```python
+<pre>
+<code>
 class IbrahimSamad:
     """
     AI Engineer & Innovation Leader
@@ -206,7 +207,8 @@ class IbrahimSamad:
             "facebook": "https://www.facebook.com/ibrahim.aiwala",
             "github": "https://github.com/Ibrahim4594"
         }
-```
+</code>
+</pre>
 
 <div align="center">
 
